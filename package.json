@@ -7,7 +7,7 @@
   "devDependencies": {},
   "author": "Alberto Souza <contato@albertosouza.net>",
   "license": "MIT",
-  "repository": "wejs/we-plugin-model-change-notificator",
+  "repository": "wejs/we-plugin-mcn",
   "keywords": [
     "wejs-plugin"
   ],
