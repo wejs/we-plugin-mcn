@@ -1,0 +1,19 @@
+{
+  "name": "we-plugin-mcn",
+  "description": "We.js plugin to notify changes in models",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "scripts": {},
+  "devDependencies": {},
+  "author": "Alberto Souza <contato@albertosouza.net>",
+  "license": "MIT",
+  "repository": "wejs/we-plugin-model-change-notificator",
+  "keywords": [
+    "wejs-plugin"
+  ],
+  "wejs": {
+    "dependencies": {
+      "we-plugin-email": true
+    }
+  }
+}
